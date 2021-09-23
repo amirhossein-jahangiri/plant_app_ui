@@ -1,6 +1,13 @@
-# plant_app_ui
+# Plant App Ui
 
-A new Flutter project.
+**Plants Store App Ui**
+
+<img src='screenshots/shot1.png' width='200' height='400'>
+<img src='screenshots/shot2.png' width='200' height='400'>
+
+
+**Created by AmirHossein Jahangiri**</br>
+*My artistic name is Surena*
 
 ## Getting Started
 
